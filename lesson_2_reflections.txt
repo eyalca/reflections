@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+it creates a trackable repository that allows you to commit and checkout previous version of the project
