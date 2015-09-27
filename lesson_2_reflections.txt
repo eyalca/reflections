@@ -13,3 +13,6 @@ in cases when you have a working project and you want to experiment a new featur
 How do the diagrams help you visualize the branch structure?
 it illustrated graphically what happens when starting a new branch, checking out on a prevous commit and how to avoid lost checkouts
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is a unified code that takes the progress of separate branches and merge them so the final version is a combination of the most recent version of each branch, and the diagram shows exactly that.
+
