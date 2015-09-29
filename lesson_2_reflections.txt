@@ -16,3 +16,7 @@ it illustrated graphically what happens when starting a new branch, checking out
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 the result is a unified code that takes the progress of separate branches and merge them so the final version is a combination of the most recent version of each branch, and the diagram shows exactly that.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: it operates a manual logic into an automatic process and pompts you to manually intervene when a conflict ocures
+Cons: as it happens in many cases, automatic processes sometimes tend to make mistakes, so it might not always do what you wanted it to do
+
