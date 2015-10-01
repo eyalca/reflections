@@ -3,3 +3,8 @@ This should be relevant when I'm not always working on a project from the same c
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 The reason may be that changes made in the remote repository might conflict with the local one, and I would like to have control over what I pull and push manually
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are to utilize someone elses repositoy without interffering with their original project at all but with clear trace of the repository's origin showing that this is an edited version of the original project.
+clones are for a case where I would like to work on a repository locally without any connection to the original project and choose to push or not based on my will
+branches are for working on the same project in parallel as collaborators or by the same person but on differnt parts of it, such as new features, experiments etc.
