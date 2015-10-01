@@ -11,3 +11,6 @@ branches are for working on the same project in parallel as collaborators or by 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 the benefit would be to allow working on the latest version of the porject offline with the smallest effect on manual merging when done.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I could collborate on a shared storage or cloud strorgaes (dropbox). this might make the sharing easier, but there would be no workflow, no merging option or conflicts management
