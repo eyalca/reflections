@@ -14,3 +14,7 @@ the benefit would be to allow working on the latest version of the porject offli
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I could collborate on a shared storage or cloud strorgaes (dropbox). this might make the sharing easier, but there would be no workflow, no merging option or conflicts management
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+This is again a metter of project type and the specific need. if there are other people working on the same master project, I would prefer to work on a separate brabch that will allow us to make changes in parallel and control what is and what isn't part of the master project branch. another type is when I'm working on a new feature, ad I don't want it to interfere with the main project's concept or demo until it's completed.
+
